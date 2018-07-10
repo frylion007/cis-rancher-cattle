@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: 10.117.130.20:5000/cisweb
-  tag: 39
+  repository: 10.117.130.20:5000/ciswebapi
+  tag: 59
   pullPolicy: IfNotPresent
   containerPort: 52360
 
